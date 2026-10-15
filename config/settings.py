@@ -1,0 +1,11 @@
+# config/settings.py
+WIDTH = 950
+HEIGHT = 650
+COLOR_BG_DARK = "#0a0f1d"
+COLOR_PANEL_BG = "#121a2e"
+COLOR_TEXT_MUTED = "#8fa3c7"
+COLOR_TEXT_LIGHT = "#ffffff"
+COLOR_OK = "#00e676"
+COLOR_WARN = "#ffb300"
+COLOR_CRIT = "#ff1744"
+ATTACK_THRESHOLD = 0.55
